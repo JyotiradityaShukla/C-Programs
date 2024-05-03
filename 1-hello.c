@@ -5,7 +5,7 @@ int main(){
     return 0;
 
 }
-
+ 
 /*
 Run code:
 gcc hello.c
